@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/beautiful-soul/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Beautiful Soul](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beautiful-soul/) |
+| **Get License** | [Official Music Licensing for Beautiful Soul](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beautiful-soul/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Midnight shadows sliding down the wall
+> Waiting for the heavy rain to fall
+> I can feel the fire in your embrace
+> Whispering my desires face to face
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
